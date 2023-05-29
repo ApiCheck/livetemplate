@@ -48,7 +48,7 @@ export const MeetingContainer = () => {
           );
         })}
       </div>
-      <Notification />
+  
     </div>
   ) : (
     <div
